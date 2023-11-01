@@ -1,6 +1,8 @@
+<p align="center" width="300">
+   <h3 align="center">¡Hi 👋! I'm Juanma Escudero</h3>
+</p>
 
-
-👋 Hi! I'm Juanma Escudero, a passionate full-stack developer specializing in React. With a strong background and experience in web application development, I'm always eager to learn new technologies and enhance my skills to stay up-to-date with the latest trends in web development.
+I'm a passionate full-stack developer specializing in React ⚛️. With a strong background and experience in web application development, I'm always eager to learn new technologies and enhance my skills to stay up-to-date with the latest trends in web development.
 
 Welcome to my GitHub profile, where you can explore my projects and contributions in the world of web development!
 
